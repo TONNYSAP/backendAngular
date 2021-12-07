@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "UrlPhoto": "https://images.pexels.com/photos/903171/pexels-photo-903171.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-903171.jpg&fm=jpg",
+      "type": "pessoas",
+      "title": "Saúde para todos",
+      "author": "Antônio Veras"
+    },
+    {
+      "id": 2,
+      "UrlPhoto": "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-845457.jpg&fm=jpg",
+      "type": "pessoas",
+      "title": "Aventura",
+      "author": "Antônio Veras"
+    },
+    {
+      "id": 3,
+      "UrlPhoto": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?cs=srgb&dl=pexels-stein-egil-liland-3408744.jpg&fm=jpg",
+      "type": "natureza",
+      "title": "A aurora",
+      "author": "Antônio Veras"
+    },
+    {
+      "id": 4,
+      "UrlPhoto": "https://images.pexels.com/photos/567540/pexels-photo-567540.jpeg?cs=srgb&dl=pexels-george-lebada-567540.jpg&fm=jpg",
+      "type": "animais",
+      "title": "Vida",
+      "author": "Antônio Veras"
+    },
+    {
+      "UrlPhoto": "https://images.pexels.com/photos/41951/solar-system-emergence-spitzer-telescope-telescope-41951.jpeg?cs=srgb&dl=pexels-pixabay-41951.jpg&fm=jpg",
+      "type": "galáxia",
+      "title": "Universo",
+      "author": "Veras",
+      "id": 5
+    },
+    {
+      "UrlPhoto": "https://images.pexels.com/photos/689784/pexels-photo-689784.jpeg?cs=srgb&dl=pexels-dsd-689784.jpg&fm=jpg",
+      "type": "animais",
+      "title": "Pinguins",
+      "author": "Ant Veras",
+      "id": 6
+    }
+  ]
+}
